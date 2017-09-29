@@ -1,0 +1,27 @@
+h1 {color: orange}
+
+Body {
+	
+	background: ivory;
+	color: orange;
+	font-family: 'Oswald', sans-serif;
+
+}
+
+NAV LI {
+	display: inline-block;
+	border: 7px solid orange;
+
+}
+
+a:hover {color: red;
+		background: orange}
+		
+.lotion {float:left}
+
+.puppy {float: left}
+
+-----lab3---------------------------------------------
+
+table, th, td {border: 1px solid black}
+
